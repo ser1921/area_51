@@ -1,0 +1,28 @@
+
+
+
+
+body{
+    background-color: black;
+}
+
+.navmio{
+    background-color:black;
+}
+
+a{
+    color:white !important;
+    
+}
+
+
+.logo{
+    width: 90px;
+    height: 90px;
+}
+
+section{
+    display: flex;
+    width: 600px;
+    height: 430px;
+}
